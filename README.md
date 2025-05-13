@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarwow" alt="oscarwow" /></a> </p>
 
-- 🔭 I’m currently working on **+státnice**
+- 🔭 I’m currently working on **štátnice**
 
 - 📫 How to reach me **adambelos98@gmail.com**
 
