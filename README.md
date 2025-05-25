@@ -57,8 +57,8 @@
     gap: 5px;
     justify-content: center;
     ">
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarwow&show_icons=true&locale=en&layout=compact" alt="oscarwow"  height="200"/></p>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarwow&show_icons=true&locale=en" alt="oscarwow" height="200"/></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarwow&show_icons=true&locale=en&layout=compact" alt="oscarwow"  height="150" width="300"/></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarwow&show_icons=true&locale=en" alt="oscarwow" height="150" width="400"/></p>
     </div >
     <div style="display: flex;
     flex-direction: column;
