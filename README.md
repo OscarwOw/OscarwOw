@@ -1,10 +1,37 @@
 <h1 align="center">Hi 👋, I'm Adam Beloš</h1>
 <h3 align="center">Student of CS in Ostrava VŠB</h3>
 
+I’m a software developer with a passion for building meaningful projects that solve real problems. I love learning new things and constantly pushing myself to outperform the previous version of me.
+
+While my main focus is C# web development using .NET, I’ve also explored other areas of IT to become a more well-rounded developer. This journey has deepened my understanding of topics like multithreading, operating systems, assembly, and project architecture. Most importantly, it taught me how to manage and deploy my projects effectively using CI/CD pipelines. 
+
+<h3 align="left">Interesting Personal Projects:</h3>
+<ul>
+  <li>
+    <b> Unmanned Aerial Vehicle Autopilot:</b><br>
+    Autonomous fixed-wing flight system with real-time ground station and restricted zone avoidance.
+  </li>
+  <li>
+    <b> Personal Website:</b><br>
+    Showcasing my skills in ASP.NET and Git project structure management.
+  </li>
+  <li>
+    <b> League of Legends Match Analyzer:</b><br>
+    Parses game history and visualizes performance trends across ranked matches.
+  </li>
+  <li>
+    <b> OpenGL 3D Map Renderer:</b><br>
+    Interactive terrain with dynamic lighting and loaded 3D models using OpenGL 3.3.
+  </li>
+  <li>
+    <b> Badminton Reservation System:</b><br>
+    Full-stack web for court booking and management..
+  </li>
+</ul>
+
+<i>anchor tags with exact projects comming soon..</i>
 
 
-
-<h3 align="left">Connect with me: <b>adambelos98@gmail.com</b></h3>
 
 <h3 align="left">Favorite and most skilled in:</h3>
 <p align="left">
@@ -25,6 +52,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
   </a>
 </p>
+
+
+<h3 align="left">Connect with me: <b>adambelos98@gmail.com</b></h3>
 
 
 ---
